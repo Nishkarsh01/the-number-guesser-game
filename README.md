@@ -1,12 +1,6 @@
 # The Number Guesser Game
 This is a number guessing game created using Html, Css, Javascript, and Skeleton
 
-## Game Logic
-
-- Player must guess a number between the given minimum and maximum numbers
-- Player gets a certain amount of guesses
-- If the player guesses right number, he wins
-
 ## Developed By
 > Nishkarsh Dubb
 
@@ -15,6 +9,12 @@ This is a number guessing game created using Html, Css, Javascript, and Skeleton
 
 ## Live Demo 
  [https://nishkarsh01.github.io/the-number-guesser-game/](https://nishkarsh01.github.io/the-number-guesser-game/)
+ 
+ ## Game Logic
+
+- Player must guess a number between the given minimum and maximum numbers
+- Player gets a certain amount of guesses
+- If the player guesses right number, he wins
 
 ## Developed using
 * Html
