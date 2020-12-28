@@ -5,7 +5,7 @@ This is a number guessing game created using Html, Css, Javascript, and Skeleton
 > Nishkarsh Dubb
 
 ## Screenshots
-![App Screenshot](screenshots/1.png)
+![App Screenshot](screenshots/2.png)
 
 ## Live Demo 
  [https://nishkarsh01.github.io/the-number-guesser-game/](https://nishkarsh01.github.io/the-number-guesser-game/)
